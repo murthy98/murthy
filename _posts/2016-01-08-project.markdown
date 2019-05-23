@@ -1,0 +1,25 @@
+---
+title:  "Projects"
+date:   2019-05-20 07:04:23 -0800
+categories: []
+tags: []
+---
+
+
+[**Dog Vs Cat Classification**](https://github.com/murthy98/Dog_Vs_Cat_Classification)
+``` ruby
+	classify images cat or a dog with Convolutional Neural Networks (CNNs).It is implemented using TensorFlow library.
+The ultimate goal of this project is to create a system that can detect cats and dogs. While our goal is very specific (cats vs dogs), ImageClassifier can detect anything that is tangible with an adequate dataset.
+
+```
+[**Predecting Handwritten Digits**](https://github.com/murthy98/Predecting-Handwritten-Digits)
+``` ruby
+	By using this we can predict the handwritten digits(1,2,3....) by using MNIST dataset.It is also an image classification problem which is build using Pytorch Library.
+```
+[**Student Admissions**](https://github.com/murthy98/StudentAdmissions)
+``` ruby
+	By using this we can able to predict if the student get an admission in college or not.This was also build using Pytorch Library.
+
+```
+
+
